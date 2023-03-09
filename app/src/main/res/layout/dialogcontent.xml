@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="410dp"
+    android:orientation="vertical"
+    android:background="@drawable/wave"
+    android:elevation="8dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:text="Edit News Description"
+        android:background="#ffffff"
+        android:textSize="25sp"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:textColor="#000000"
+        android:textStyle="bold"/>
+
+    <EditText
+        android:id="@+id/updateDescrip"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_marginTop="0dp"
+        android:hint="Description"
+        android:textColor="#ffffff"
+        android:textColorHint="#000000" />
+
+    <Button
+        android:id="@+id/updateBtn"
+        android:layout_width="140dp"
+        android:layout_height="44dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:text="Edit"
+        android:textColor="#13887f"
+        android:textStyle="bold"
+        android:background="@drawable/round_green_button"
+        android:textSize="20sp"
+        android:elevation="10dp"
+        android:shadowColor="#C69B13"/>
+
+
+
+</LinearLayout>

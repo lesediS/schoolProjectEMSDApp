@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/2. Semester 2/XBCAD7319/XBCAD7319_ST10119438_Mobile App/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2115" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/2. Semester 2/XBCAD7319/XBCAD7319_ST10119438_Mobile App/app/src/main/res/drawable/gradient_background.xml" value="0.205" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/2. Semester 2/XBCAD7319/XBCAD7319_ST10119438_Mobile App/app/src/main/res/drawable/gradient_nav_header.xml" value="0.1775" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/2. Semester 2/XBCAD7319/XBCAD7319_ST10119438_Mobile App/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2115" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/2. Semester 2/XBCAD7319/XBCAD7319_ST10119438_Mobile App/app/src/main/res/drawable/nav_bar_header_colour.xml" value="0.196" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/2. Semester 2/XBCAD7319/XBCAD7319_ST10119438_Mobile App/app/src/main/res/drawable/round_image_border.xml" value="0.2115" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/2. Semester 2/XBCAD7319/XBCAD7319_ST10119438_Mobile App/app/src/main/res/drawable/round_image_button.xml" value="0.1845" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/2. Semester 2/XBCAD7319/XBCAD7319_ST10119438_Mobile App/app/src/main/res/drawable/round_image_button_hiphop.xml" value="0.2115" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/2. Semester 2/XBCAD7319/XBCAD7319_ST10119438_Mobile App/app/src/main/res/drawable/round_image_button_modern.xml" value="0.2115" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/2. Semester 2/XBCAD7319/XBCAD7319_ST10119438_Mobile App/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/2. Semester 2/XBCAD7319/XBCAD7319_ST10119438_Mobile App/app/src/main/res/layout/activity_main_with_nav_drawer.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/2. Semester 2/XBCAD7319/XBCAD7319_ST10119438_Mobile App/app/src/main/res/layout/activity_teacher_training.xml" value="0.1" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/2. Semester 2/XBCAD7319/XBCAD7319_ST10119438_Mobile App/app/src/main/res/layout/fragment_modern.xml" value="0.182518115942029" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/2. Semester 2/XBCAD7319/XBCAD7319_ST10119438_Mobile App/app/src/main/res/layout/fragment_teacher_training.xml" value="0.22" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/2. Semester 2/XBCAD7319/XBCAD7319_ST10119438_Mobile App/app/src/main/res/layout/nav_header_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/2. Semester 2/XBCAD7319/XBCAD7319_ST10119438_Mobile App/app/src/main/res/layout/test_modern_frag.xml" value="0.1838768115942029" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/2. Semester 2/XBCAD7319/XBCAD7319_ST10119438_Mobile App/app/src/main/res/menu/navigation_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/2. Semester 2/XBCAD7319/XBCAD7319_ST10119438_Mobile App/app/src/main/res/menu/option_menu.xml" value="0.33" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/2. Semester 2/XBCAD7319/XBCAD7319_ST10119438_Mobile App/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2075" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/2. Semester 2/XBCAD7319/XBCAD7319_ST10119438_Mobile App/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/EMSD_App/app/src/main/res/drawable/custom_input.xml" value="0.1775" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/EMSD_App/app/src/main/res/drawable/gradient_background.xml" value="0.1775" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/EMSD_App/app/src/main/res/drawable/gradient_nav_header.xml" value="0.1775" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/EMSD_App/app/src/main/res/drawable/round_button_with_color_border.xml" value="0.2115" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/EMSD_App/app/src/main/res/drawable/round_buttons.xml" value="0.2105" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/EMSD_App/app/src/main/res/drawable/round_image_border.xml" value="0.2115" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/EMSD_App/app/src/main/res/drawable/round_image_button_hiphop.xml" value="0.2055" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/EMSD_App/app/src/main/res/drawable/round_image_button_modern.xml" value="0.2055" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/EMSD_App/app/src/main/res/drawable/white_background_buttons.xml" value="0.2055" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/EMSD_App/app/src/main/res/layout/activity_main.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/EMSD_App/app/src/main/res/layout/fragment_add_news.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/EMSD_App/app/src/main/res/layout/fragment_add_or_update_news.xml" value="0.1675213675213675" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/EMSD_App/app/src/main/res/layout/fragment_modern.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/EMSD_App/app/src/main/res/layout/fragment_news_board.xml" value="0.25" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/EMSD_App/app/src/main/res/layout/fragment_teacher_training.xml" value="0.19429347826086957" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/EMSD_App/app/src/main/res/layout/news_view.xml" value="0.33" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/EMSD_App/app/src/main/res/layout/test_modern_frag.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/EMSD_App/app/src/main/res/menu/navigation_menu.xml" value="0.33" />
+        <entry key="..\:/Users/Darsh/Documents/3. 3rd Year BCAD/2ND Semester/EMSD_App/app/src/main/res/menu/option_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">EMSD_App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="TeacherTrainingBtn">Teacher Training</string>
+    <string name="hip_hopTV">Hip Hop</string>
+    <string name="modernTV">Modern</string>
+    <string name="hiphopassociateImgBtn">HipHopAssociate</string>
+    <string name="TeacherTrainingTV" />
+    <string name="hiphopPreassociateBtn">hipHopPreAssImgBtn</string>
+    <string name="home_pageTV">Home Page!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="select_class">Select Class</string>
+    <string name="select_level">Select Level</string>
+</resources>

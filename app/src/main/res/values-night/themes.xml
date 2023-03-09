@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.EMSD_App" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#df5d39</item>
+        <item name="colorPrimaryVariant">#29a6c4</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+      <!-- <item name="android:statusBarColor" tools:targetApi="l">#04d198</item> -->
+        <!-- Customize your theme here.?attr/colorPrimaryVariant #3186bf -->
+    </style>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "141443162254",
+    "firebase_url": "https://emsd-app-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "emsd-app",
+    "storage_bucket": "emsd-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141443162254:android:a51c961e1389df413b29df",
+        "android_client_info": {
+          "package_name": "com.example.emsd_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141443162254-ghjn83038hh81is6bbvgi4675cf13op9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4YOpoWXbOIqNGOSWlHjok5VFTfPEN2rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141443162254-ghjn83038hh81is6bbvgi4675cf13op9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

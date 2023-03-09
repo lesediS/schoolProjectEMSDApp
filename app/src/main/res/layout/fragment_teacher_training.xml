@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:id="@+id/hipHopTeachLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/hipHopLbl"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="0dp"
+            android:gravity="center"
+            android:text="@string/hip_hopTV"
+            android:textColor="#000000"
+            android:textSize="26sp"
+            android:textStyle="bold" />
+
+
+        <Button
+            android:id="@+id/preAssoBtn"
+            android:layout_width="200dp"
+            android:layout_height="148dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/round_image_button_hiphop"
+            android:contentDescription="@string/hiphopPreassociateBtn"
+            android:elevation="8dp"
+            android:text="Pre-Associate"
+            android:textColor="@color/white"
+            android:textSize="20dp"
+            android:textStyle="bold"/>
+
+
+        <Button
+            android:id="@+id/assoBtn"
+            android:layout_width="200dp"
+            android:layout_height="148dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/round_image_button_hiphop"
+            android:contentDescription="@string/hiphopassociateImgBtn"
+            android:elevation="8dp"
+            android:text="Associate"
+            android:textColor="@color/white"
+            android:textSize="20dp"
+            android:textStyle="bold"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:text="@string/modernTV"
+            android:textColor="#000000"
+            android:textSize="26sp"
+            android:textStyle="bold" />
+
+        <ScrollView
+            android:id="@+id/modernScroll"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:id="@+id/modernLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/grade12Btn"
+                    android:layout_width="200dp"
+                    android:layout_height="148dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/round_image_button_modern"
+                    android:elevation="8dp"
+                    android:text="Grade 12"
+                    android:textColor="@color/white"
+                    android:textStyle="bold"
+                    android:textSize="20dp"/>
+
+                <Button
+                    android:id="@+id/preAssoModernBtn"
+                    android:layout_width="200dp"
+                    android:layout_height="148dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/round_image_button_modern"
+                    android:elevation="8dp"
+                    android:text="Pre-Associate"
+                    android:textColor="@color/white"
+                    android:textStyle="bold"
+                    android:textSize="20dp"/>
+
+                <Button
+                    android:id="@+id/assoModernBtn"
+                    android:layout_width="200dp"
+                    android:layout_height="148dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:background="@drawable/round_image_button_modern"
+                    android:elevation="8dp"
+                    android:text="Associate"
+                    android:textColor="@color/white"
+                    android:textStyle="bold"
+                    android:textSize="20dp"/>
+
+
+            </LinearLayout>
+
+
+        </ScrollView>
+
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/homeItem"
+            android:title="Home"
+            android:icon="@drawable/ic_baseline_home_24"/>
+
+        <item
+            android:id="@+id/addNewsItem"
+            android:title="Add News"
+            android:icon="@drawable/post2"/>
+
+        <item
+            android:id="@+id/hiphopItem"
+            android:title="Hip-Hop"
+            android:icon="@drawable/hiphop1"/>
+        <item
+            android:id="@+id/modernItem"
+            android:title="Modern"
+            android:icon="@drawable/modern2"/>
+        <item
+            android:id="@+id/hpItem"
+            android:title="HP"
+           android:icon="@drawable/dh7"/>
+        <item
+            android:id="@+id/compItem"
+            android:icon="@drawable/comp"
+            android:title="Competition"
+            android:visible="false" />
+        <item
+            android:id="@+id/teachtrainItem"
+            android:title="Teacher Training "
+            android:icon="@drawable/sabod2"/>
+        <item
+            android:id="@+id/calendarClassScheduleItem"
+            android:icon="@drawable/ic_baseline_calendar"
+            android:title="Class Schedule " />
+    </group>
+
+    <item android:title="Social Media">
+        <menu>
+            <item
+                android:id="@+id/youtubeItem"
+                android:title="YouTube"
+                android:icon="@drawable/youtube2"/>
+            <item
+                android:id="@+id/instaItem"
+                android:title="Instagram"
+                android:icon="@drawable/insta2"/>
+            <item
+                android:id="@+id/facebookItem"
+                android:title="Facebook"
+                android:icon="@drawable/facebook1"/>
+        </menu>
+    </item>
+
+</menu>
