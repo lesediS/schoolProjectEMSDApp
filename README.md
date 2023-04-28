@@ -8,3 +8,5 @@ It needed to be able to set and update practice dates for a grade.
 It needed to be able to send messages to clients in specific grades via a messaging board.
 It needed to send messages to teachers in certain classes.
 It needed to link to her other social media accounts.
+
+![Screenshot](loginScreenshot.png)
